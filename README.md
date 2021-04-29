@@ -32,4 +32,4 @@ This is an ordered list.
 2. Item 2
 3. Item 3
 
-Markdown reference or [intro to Web Design](https://cs.nyu.edu/courses/spring21/CSCI-UA.0004-004/) :books: :suffer: :computer:
+Markdown reference or [intro to Web Design](https://cs.nyu.edu/courses/spring21/CSCI-UA.0004-004/) :books: :surfer: :computer:
